@@ -8,6 +8,7 @@
 <body>
     <?php
     echo "php is running...";
+    echo "Hello git";
     ?>
 </body>
 </html>
