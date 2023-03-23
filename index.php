@@ -9,6 +9,7 @@
     <?php
     echo "php is running...";
     echo "Hello git";
+    echo $GET;
     ?>
 </body>
 </html>
