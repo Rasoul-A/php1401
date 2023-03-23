@@ -11,7 +11,7 @@
     echo "Hello git";
 <<<<<<< HEAD
     echo $GET;
-    echo "This line is added in github."
+    echo "This line is added in github." // Why did you add this?
 =======
 >>>>>>> refs/remotes/origin/main
     ?>
