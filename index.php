@@ -9,7 +9,10 @@
     <?php
     echo "php is running...";
     echo "Hello git";
+<<<<<<< HEAD
     echo $GET;
+=======
+>>>>>>> refs/remotes/origin/main
     ?>
 </body>
 </html>
