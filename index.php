@@ -11,6 +11,7 @@
     echo "Hello git";
 <<<<<<< HEAD
     echo $GET;
+    echo "This line is added in github."
 =======
 >>>>>>> refs/remotes/origin/main
     ?>
